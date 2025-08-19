@@ -34,7 +34,7 @@ pip install pyaudio
 
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/ChAtulKumarPrusty/VoiceTranslator.git
+git clone https://github.com/SurajKumarpandey001/Voice-Translator
 cd voice-translator
 Run the Python script:
 python your_script_name.py
@@ -68,7 +68,7 @@ Ensure your microphone is properly connected and working.
 Background noise can affect speech recognition accuracy.
 
 👨‍💻 Author
-Developed with ❤️ Ch Atul Kumar Prusty
+Developed with ❤️ Suraj Kumar
 
 Let me know if you want me to add:
 - A GIF demo
